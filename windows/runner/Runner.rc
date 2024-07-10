@@ -89,11 +89,11 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
+            VALUE "CompanyName", "com.shishirkrsingh" "\0"
             VALUE "FileDescription", "spring_space" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "spring_space" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2024 com.shishirkrsingh. All rights reserved." "\0"
             VALUE "OriginalFilename", "spring_space.exe" "\0"
             VALUE "ProductName", "spring_space" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
