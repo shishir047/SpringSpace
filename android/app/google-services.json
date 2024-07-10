@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809607834498",
+    "project_id": "springspace-firebase",
+    "storage_bucket": "springspace-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809607834498:android:c15fe781e08d365032bd9b",
+        "android_client_info": {
+          "package_name": "com.example.spring_space"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3binOaeTQAynh2XNvL14vA_cjPaHx-ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

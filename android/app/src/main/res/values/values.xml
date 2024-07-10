@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- <string name="default_web_client_id" translatable="false">YOUR_WEB_CLIENT_ID</string> -->
+    <string name="firebase_database_url" translatable="false">https://springspace-firebase.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">809607834498</string>
+    <string name="google_api_key" translatable="false">AIzaSyA3binOaeTQAynh2XNvL14vA_cjPaHx-ZE</string>
+    <string name="google_app_id" translatable="false">1:809607834498:android:c15fe781e08d365032bd9b</string>
+    <string name="project_id" translatable="false">springspace-firebase</string>
+    <string name="google_storage_bucket" translatable="false">springspace-firebase.appspot.com</string>
+</resources>
