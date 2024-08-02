@@ -89,6 +89,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
         'users': [currentUserId, otherUserId],
         'lastMessage': '',
         'lastMessageTime': DateTime.now(),
+        'seenBy': [currentUserId],
       });
       chatId = newChat.id;
     }

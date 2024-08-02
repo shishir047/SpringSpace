@@ -134,6 +134,7 @@ class _PostCardState extends State<PostCard> {
         'users': [currentUserId, otherUserId],
         'lastMessage': '',
         'lastMessageTime': DateTime.now(),
+        'seenBy': [currentUserId],
       });
       chatId = newChat.id;
     }
