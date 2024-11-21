@@ -11,11 +11,11 @@ void main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: 'AIzaSyC1n1nlMtDc11lx1oZqh53-1x0AsGRyb-s',
-        appId: '1:809607834498:web:faf770c1c861f1b032bd9b',
-        messagingSenderId: '809607834498',
-        projectId: 'springspace-firebase',
-        storageBucket: 'springspace-firebase.appspot.com',
+        // apiKey: '',
+        // appId: '',
+        // messagingSenderId: '',
+        // projectId: '',
+        // storageBucket: '',
       ),
     );
   } else {
